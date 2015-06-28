@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Vanell's blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -13,13 +13,13 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : Vanell's Blog
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : Geoffrey Gaillard
+      email : geof.gaill@gmail.com
+      github : Vanell
+      twitter : @Vanell_Gaill
 
 The theme should reference these variables whenever needed.
     
